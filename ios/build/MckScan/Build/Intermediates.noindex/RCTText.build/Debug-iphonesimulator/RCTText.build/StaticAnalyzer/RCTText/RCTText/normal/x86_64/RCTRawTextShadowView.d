@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/kgresmer/Desktop/dev/MckScanBase/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.m \
+  /Users/kgresmer/Desktop/dev/MckScanBase/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/kgresmer/Desktop/dev/MckScanBase/ios/build/MckScan/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h

@@ -1,0 +1,4 @@
+#Thu May 02 07:44:21 CDT 2019
+base.0=/Users/kgresmer/Desktop/dev/MckScanBase/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
