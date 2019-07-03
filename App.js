@@ -1,11 +1,6 @@
 import React, {Component} from 'react';
 import {createAppContainer, createStackNavigator} from "react-navigation";
 import HomeScreen from "./components/home";
-import LoginScreen from "./components/login";
-import ListScreen from "./components/list";
-import Store from "./store";
-import ShipToListScreen from "./components/shipto-list";
-import SubmitScreen from "./components/submit";
 
 type Props = {};
 export default class App extends Component<Props> {
@@ -20,14 +15,14 @@ export default class App extends Component<Props> {
 
 const AppNavigator = createStackNavigator(
     {
-        login: { screen: LoginScreen},
+        existing: { screen: ExistingPlayersScreen},
         home: { screen: HomeScreen},
-        list: { screen: ListScreen},
-        shipto: { screen: ShipToListScreen},
-        submit: { screen: SubmitScreen}
+        roster: { screen: RosterScreen},
+        order: { screen: PlayerOrderScreen},
+        scoreboard: { screen: ScoreboardScreen}
     },
     {
-        initialRouteName: "login",
+        initialRouteName: "home",
         defaultNavigationOptions: {
             headerStyle: {
                 backgroundColor: '#3185cd'

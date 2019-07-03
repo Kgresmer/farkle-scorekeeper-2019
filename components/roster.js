@@ -6,7 +6,7 @@ interface NavStatelessComponent extends React.StatelessComponent {
     navigationOptions?: Object
 }
 
-const HomeScreen: NavStatelessComponent = ({ navigation }) => {
+const RosterScreen: NavStatelessComponent = ({ navigation }) => {
 
     return (
         <View style={styles.container}>
@@ -33,7 +33,7 @@ const HomeScreen: NavStatelessComponent = ({ navigation }) => {
     )
 };
 
-export default HomeScreen;
+export default RosterScreen;
 
 const styles = StyleSheet.create({
     container: {

@@ -11,7 +11,7 @@ const HomeScreen: NavStatelessComponent = ({ navigation }) => {
     return (
         <View style={styles.container}>
             <Text style={styles.title}>McKesson Scan</Text>
-            <DisplayRecentPic />
+
             <TouchableOpacity style={styles.buttonContainer}
                               onPress={() => navigation.navigate('list')}>
                 <Text style={styles.buttonText}>Go To List</Text>
